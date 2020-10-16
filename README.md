@@ -8,7 +8,7 @@ Progress:
 3. Updated Profile pictures and little description
 4. Linked github
 
-TODO:
+TODO:<br>
 ~~1. Edit all details with personal details~~<br>
 ~~2. Change pictures everywhere~~<br>
 ~~3. Add resume~~ <br>
