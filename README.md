@@ -20,6 +20,7 @@ TODO:<br>
   ~~8.Fix "Who I am" section with "web developer and data scientist based out in bengaluru" and replace the description under it with whatever is necessary.~~<br>
   9. Fix the bottom-most icon links with my social media handles for last three ( refer below img) add cc icon<br>
   <img width="114" alt="icon links" src="https://user-images.githubusercontent.com/56666788/96260227-619f8c80-0fdc-11eb-8772-3495e195e8d1.png"><br>
+10. Make the webpage responsive
 
-Please check issues for putting PR'S for TODO
+
 
