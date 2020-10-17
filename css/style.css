@@ -97,6 +97,7 @@ h3 {
     margin: 0;
 }
 
+
 h1 { font-size: var(--fs-h1) }
 h2 { font-size: var(--fs-h2) }
 h3 { font-size: var(--fs-h3) }
@@ -320,7 +321,7 @@ header {
 
 .services {
     margin-bottom: 4em;
-    
+    padding-left: 40px;
 }
 
 .service {
@@ -397,7 +398,8 @@ header {
 }
 
 .portfolio__item {
-    background: var(--clr-accent);
+    background: cyan/*var(--clr-accent)*/;
+    font-family: 'Montserrat', sans-serif;
     overflow: hidden;
 }
 
