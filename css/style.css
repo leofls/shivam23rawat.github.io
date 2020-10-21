@@ -363,8 +363,15 @@ header {
 .about-me__img {
     box-shadow: var(--bs);
 }
-
+@media (max-width: 600px) {
+    
+    .section__subtitle--intro,
+    .section__subtitle--about{
+       padding-left: initial !important; 
+    }
+}
 @media (min-width: 600px) {
+   
     .about-me {
         display: grid;
         grid-template-columns: 1fr 200px;
@@ -410,9 +417,21 @@ header {
 }
 
 .portfolio__item {
+    position: relative;
     background: var(--clr-accent);
     font-family: 'Montserrat', sans-serif;
     overflow: hidden;
+}
+.portfolio_title{
+    position: absolute;
+    left: 50%;
+    top: 9%;
+    transform: translateX(-50%) translateY(-50%);
+    width: fit-content;
+    background: #00000077;
+    padding: 37px 71px;
+    color: #FFF;
+    height: 135px;
 }
 
 .portfolio__img {
